@@ -36,6 +36,6 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 <div id="db">
     <img id="mongo" style="position:relative;top:15px;" src="https://api.civo.com/k3s-marketplace/mongodb.png" width="100"/>     
-    <img id="firebase"  style="position:relative;top:-17px;" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50"/>
+    <img id="firebase"  style="position:relative;top:-2px;" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50"/>
 <div>
 

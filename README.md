@@ -27,7 +27,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 <div id="frameworks">
 <img id="springboot" style="position:relative;right:-13px;" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="60px">
-<img id="flask" style="position:relative;right:-20px;top:4px;" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="50px">
+<img id="flask" style="position:relative;right:-20px;top:4px;" src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" width="50px">
 <img id="react" style="position:relative;right:-22px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="60px">
 </div>
 

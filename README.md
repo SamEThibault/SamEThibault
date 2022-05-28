@@ -15,8 +15,8 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 ## Languages:
 
-<html>
 <style>
+
 #cpp{
     position: relative;
     top: -10px;
@@ -57,7 +57,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 
 </style>
-</html>
+
 
 <div id="languages">
 <img id="java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="80">

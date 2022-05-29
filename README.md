@@ -1,4 +1,7 @@
-# Hi there :)
+<div id="header" style="overflow:auto;">
+    <h1> Hi There <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50" />  </h1> 
+    
+</div>
 
 <p>My name is Sam and I'm a Computer Engineering Student at Queen's University in Ontario, Canada. When I need a break from my studies, I enjoy working on web applications and exploring the constant flow of emerging frameworks / libraries. 
 
@@ -35,7 +38,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 ## Databases:
 
 <div id="db">
-    <img id="mongo" style="position:relative;top:25px;" src="https://api.civo.com/k3s-marketplace/mongodb.png" width="100"/>     
-    <img id="firebase"  style="position:relative;top:-2px;" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50"/>
+    <img id="mongo" style="position:relative;" src="https://api.civo.com/k3s-marketplace/mongodb.png" width="100"/>     
+    <img id="firebase"  style="position:relative;" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50"/>
 <div>
 

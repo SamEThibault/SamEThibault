@@ -41,4 +41,4 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 
 
-###### *Credit to [Anirudh Emmadi](https://github.com/aemmadi) for the Tech Stack Presentation format and [Shields.io](https://shields.io/) for the badge service*
+###### *Credit to [Anirudh Emmadi](https://github.com/aemmadi) for the Tech Stack presentation format and [Shields.io](https://shields.io/) for the badge service*

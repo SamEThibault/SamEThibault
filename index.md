@@ -3,10 +3,9 @@
     
 </div>
 
-<p>My name is Sam and I'm a Computer Engineering Student at Queen's University in Ontario, Canada. When I need a break from my studies, I enjoy working on web applications and exploring the constant flow of emerging frameworks / libraries. 
+My name is Sam and I'm a Computer Engineering Student at Queen's University in Ontario, Canada. When I need a break from my studies, I enjoy working on web applications and exploring the constant flow of emerging frameworks / libraries. 
 
 Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedin.com/in/samuelemardthibault/)
-</p>
 
 
 ## What am I up to?

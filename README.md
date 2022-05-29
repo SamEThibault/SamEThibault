@@ -1,5 +1,5 @@
 <div id="header" style="overflow:auto;">
-    <h1> Hi There <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50" />  </h1> 
+    <h1> Hi There <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" />  </h1> 
     
 </div>
 

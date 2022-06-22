@@ -11,6 +11,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 ## What am I up to?
 - I'm part of the Summer 2022 [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering) and have joined the Production Engineering track.
+- I'm working on automating deployment processes using Bash scripting and Linux fundamentals.
 - I'm currently working on my **React**, **Spring**, and NoSQL skills with **Firestore** and **MongoDB**!
 - I'm learning Object Oriented **Java** to work on **Spring** web apps and command line tools.
 

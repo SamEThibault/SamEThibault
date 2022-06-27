@@ -34,6 +34,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 #### Databases: 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 
 #### Version Control: 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

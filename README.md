@@ -18,7 +18,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 ## Tech Stack
 #### Languages: 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)

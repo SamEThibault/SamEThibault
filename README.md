@@ -8,6 +8,7 @@
 Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedin.com/in/samuelemardthibault/)
 </p>
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/dj_3ffect)
 
 ## What am I up to?
 - I'm part of the Summer 2022 [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering) and have joined the Production Engineering track.

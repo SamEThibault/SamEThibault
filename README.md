@@ -23,9 +23,11 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 #### Web: 
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)

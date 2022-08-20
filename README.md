@@ -12,7 +12,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 - I've recently completed the Production Engineering [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering).
 - I'm working on my Linux skills by building a CentOS server to serve a few web apps.
 - I'm currently working on my **Python**, **Spring**, and NoSQL skills with **Firestore** and **MongoDB**!
-- I'm learning about CI/CD to automate tests, containerization, and deployment processes using **Docker**, **GH Actions**, and some **Bash** scripts.
+- I'm learning about CI/CD to automate the testing and deployment processes using **Docker**, **GH Actions**, and some **Bash** scripts.
 
 
 ## Tech Stack

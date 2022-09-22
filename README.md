@@ -36,10 +36,13 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+![Peewee ORM](https://img.shields.io/badge/-Peewee-black?style=flat-square&logo=peewee)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=sqlalchemy)
 
 #### Version Control: 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
 #### Hardware: 
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)

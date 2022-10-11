@@ -9,10 +9,11 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 </p>
 
 ## What am I up to?
-- I've recently completed the Production Engineering [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering).
-- I'm working on my Linux skills by building a CentOS server to serve a few web apps.
-- I'm currently working on my **Python**, **Spring**, and NoSQL skills with **Firestore** and **MongoDB**!
-- I'm learning about CI/CD to automate testing and deployment processes using **Docker**, **GH Actions**, and some **Bash** scripts.
+- Recently completed the Production Engineering [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering).
+- Working on my **Linux** skills by building a CentOS server to serve a few web apps.
+- Working with **Python** to build web applications using **Flask** and create some automation projects with **Selenium**.
+- Using Python ORMs like **Peewee** and **SQLAlchemy** to build database APIs for varying applications. 
+- Learning about CI/CD to automate testing and deployment processes using **Docker**, **GH Actions**, and some **Bash** scripts.
 
 
 ## Tech Stack

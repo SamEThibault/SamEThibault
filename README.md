@@ -14,7 +14,7 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 - Recently completed the Production Engineering [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering).
 - Working on my **Linux** skills by building a CentOS server to serve a few web apps.
 - Working with **Python** to build web applications using **Flask** and create some automation projects with **Selenium**.
-- Using Python ORMs like **Peewee** and **SQLAlchemy** to build database APIs for varying applications. 
+- Using Python ORMs like **Peewee** and **SQLAlchemy** to build database APIs for various applications. 
 - Learning about CI/CD to automate testing and deployment processes using **Docker**, **GH Actions**, and some **Bash** scripts.
 
 

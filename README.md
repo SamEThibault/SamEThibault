@@ -8,6 +8,8 @@
 Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedin.com/in/samuelemardthibault/)
 </p>
 
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samethibault&count_private=true&show_icons=true&theme=merko)
+
 ## What am I up to?
 - Recently completed the Production Engineering [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering).
 - Working on my **Linux** skills by building a CentOS server to serve a few web apps.
@@ -47,6 +49,5 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 #### Hardware: 
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-
 
 ###### *Credit to [Anirudh Emmadi](https://github.com/aemmadi) for the Tech Stack presentation format and [Shields.io](https://shields.io/) for the badge service*

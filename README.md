@@ -8,7 +8,7 @@
 Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedin.com/in/samuelemardthibault/)
 </p>
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samethibault&count_private=true&show_icons=true&theme=merko)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samethibault&count_private=true&show_icons=true&theme=merko) 
 
 ## What am I up to?
 - Recently completed the Production Engineering [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering).
@@ -19,35 +19,11 @@ Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedi
 
 
 ## Tech Stack
-#### Languages: 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-#### Web: 
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
-#### Databases: 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
-![Peewee ORM](https://img.shields.io/badge/-Peewee-black?style=flat-square&logo=peewee)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=sqlalchemy)
-
-#### Version Control: 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-
-#### Hardware: 
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-
-###### *Credit to [Anirudh Emmadi](https://github.com/aemmadi) for the Tech Stack presentation format and [Shields.io](https://shields.io/) for the badge service*
+| Languages | Web | Databases | Version Control |
+|:---:|---|---|---|
+| ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) | ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot) | ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) |
+| ![C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c) | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL) | ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab) |
+| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) | ![Peewee ORM](https://img.shields.io/badge/-Peewee-black?style=flat-square&logo=peewee) |  |
+|  | ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx) | ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=sqlalchemy) |  |
+|  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) |  |  |

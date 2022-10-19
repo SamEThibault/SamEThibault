@@ -5,7 +5,7 @@
 
 <p>My name is Sam and I'm a Computer Engineering Student at Queen's University in Ontario, Canada. I am passionate about scalable backend web development and am driven to learn more about ways to develop and deploy secure and reliable services.
 
-Feel free to reach out via my LinkedIn profile [right here!](https://www.linkedin.com/in/samuelemardthibault/)
+Feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/samuelemardthibault/) or visit my [portfolio site!](https://samthibault.live)
 </p>
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samethibault&count_private=true&show_icons=true&theme=merko) 

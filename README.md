@@ -12,10 +12,10 @@ Feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/sam
 
 ## What am I up to?
 - Recently completed the Production Engineering [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering).
-- Working on my **Linux** skills by building a CentOS server to serve a few web apps.
-- Working with **Python** to build web applications using **Flask** and create some automation projects with **Selenium**.
+- Working on my **Linux** skills by building a CentOS server to serve a few web apps through **NGINX**.
+- Working with **Python** to build web applications using **Flask** and **Django**.
 - Using Python ORMs like **Peewee** and **SQLAlchemy** to build database APIs for various applications. 
-- Learning about CI/CD to automate testing and deployment processes using **Docker**, **GH Actions**, and some **Bash** scripts.
+- Learning about CI/CD to automate testing and deployment processes using Python testing frameworks, **Docker**, **GH Actions**, and **Bash** scripting.
 
 
 ## Tech Stack

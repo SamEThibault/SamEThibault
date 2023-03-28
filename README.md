@@ -19,6 +19,7 @@ Feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/sam
     - https://samthibault.live
     - https://mindhack.samthibault.live
     - https://linkhack.samthibault.live
+    - http://minutetutor.samthibault.live (Currently in testing)
 
 
 ## Tech Stack

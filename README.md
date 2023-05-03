@@ -11,6 +11,7 @@ Feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/sam
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samethibault&count_private=true&show_icons=true&theme=merko) 
 
 ## What am I up to?
+- Currently a Software Developer Intern at the Queen's Centre for Advanced Computing working on full-stack web development projects.
 - Working with [QMIND's](https://qmind.ca/) web development team to improve their website and develop management features.
 - Working alongside the [Queen's Racing](https://www.qfsae.ca/) electrical section to develop firmware for their car's shifting indicator module.
 - Working with **Python** to build web applications using **Flask** and **Django**.

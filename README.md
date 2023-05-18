@@ -17,10 +17,10 @@ Feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/sam
 - Working with **Python** to build web applications using **Flask** and **Django**.
 - Learning about CI/CD to automate testing and deployment processes using Python testing frameworks, **Docker**, **GH Actions**, and **Bash** scripting.
 - Working on my **Linux** skills by maintaining a CentOS server to host a few web apps through **NGINX**. Here is a list of currently hosted sites ranging from portfolios to past hackathon projects:
-    - https://samthibault.live
-    - https://mindhack.samthibault.live
-    - https://linkhack.samthibault.live
-    - http://minutetutor.samthibault.live (Currently in testing)
+    - https://samthibault.ca
+    - https://mindhack.samthibault.ca
+    - https://linkhack.samthibault.ca
+    - http://minutetutor.samthibault.ca (Currently in testing)
 
 
 ## Tech Stack

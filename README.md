@@ -16,12 +16,7 @@ Feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/sam
 - Working alongside the [Queen's Racing](https://www.qfsae.ca/) electrical section to develop firmware for their car's shifting indicator module.
 - Working with **Python** to build web applications using **Flask** and **Django**.
 - Learning about CI/CD to automate testing and deployment processes using Python testing frameworks, **Docker**, **GH Actions**, and **Bash** scripting.
-- Working on my **Linux** skills by maintaining a CentOS server to host a few web apps through **NGINX**. Here is a list of currently hosted sites ranging from portfolios to past hackathon projects:
-    - https://samthibault.ca
-    - https://mindhack.samthibault.ca
-    - https://linkhack.samthibault.ca
-    - http://minutetutor.samthibault.ca (Currently in testing)
-
+- Working on my **Linux** skills to deploy applications through OCI and AWS.
 
 ## Tech Stack
 | Languages | Web | Databases | Version Control |

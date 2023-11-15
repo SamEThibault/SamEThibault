@@ -31,5 +31,5 @@ Django REST | Flask | React/Next | Spring Boot | Flutter | Node |
 Linux | Docker | AWS (EC2, Elastic Beanstalk, RDS, S3) | GCP (Firestore, APIs) | OCI |
 --- | --- | --- | --- |--- |
 #### Storage:
-MariaDB | Sqlite | MySQL | PostgreSQL | Python/JS ORMs | RDS | S3 | Firestore | MongoDB |
---- | --- | --- | --- | --- | --- | --- | --- | --- |
+MariaDB/MySQL | SQLite | PostgreSQL | Python/JS ORMs | RDS | S3 | Firestore | MongoDB |
+--- | --- | --- | --- | --- | --- | --- | --- |

@@ -14,7 +14,7 @@ Feel free to reach out via my [LinkedIn profile](https://www.linkedin.com/in/sam
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samethibault&count_private=true&show_icons=true&theme=merko) 
 
 ## What am I up to?
-- Currently a Software Developer Intern at the Queen's Centre for Advanced Computing working on full-stack web development projects.
+- Recently wrapped up my internship as a full-stack Software Developer for the Queen's Centre for Advanced Computing.
 - Working with [QMIND's](https://qmind.ca/) web development team to improve their website and develop management features.
 - Working with **Python** and **JS/TS** to build web applications using **NextJs**, **Flask**, and **Django**.
 - Learning about CI/CD to automate testing and deployment processes using Python testing frameworks, **Docker**, **GH Actions**, and **Bash** scripting.

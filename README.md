@@ -1,4 +1,4 @@
-<p>Computer Engineering grad from Queen’s University. Recently joined Meta in the Bay Area to work on Ads Infrastructure. Interested in operating systems, web development, and distributed systems.
+<p>Computer Engineering grad from Queen’s University. Recently joined Meta in the Bay Area to work on Ads Infra. Interested in operating systems, web development, and distributed systems.
 
 Reach out via my [LinkedIn profile](https://www.linkedin.com/in/samuelemardthibault/) or visit my [portfolio site!](https://samthibault.ca)
 </p>

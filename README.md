@@ -1,4 +1,4 @@
-<p>Computer Engineering grad from Queen’s University. Recently joined Meta in the Bay Area to work on Ads Infra. Interested in operating systems, web development, and distributed systems.
+<p>Production Engineer at Meta working on Ads Release and Infrastructure Optimization in Menlo Park. Computer Engineering grad from Queen’s University, Canada. Interested in deployment infra, operating systems, web development, and distributed systems.
 
 Reach out via my [LinkedIn profile](https://www.linkedin.com/in/samuelemardthibault/) or visit my [portfolio site!](https://samthibault.ca)
 </p>

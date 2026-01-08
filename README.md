@@ -3,8 +3,6 @@
 Reach out via my [LinkedIn profile](https://www.linkedin.com/in/samuelemardthibault/) or visit my [portfolio site!](https://samthibault.ca)
 </p>
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samethibault&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Current Tech Stack
 #### Languages:
 Python | JS/TS | Dart | C/C++ | Java |

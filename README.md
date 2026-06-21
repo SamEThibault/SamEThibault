@@ -5,14 +5,14 @@ Reach out via my [LinkedIn profile](https://www.linkedin.com/in/samuelemardthiba
 
 ## Current Tech Stack
 #### Languages:
-Python | JS/TS | Dart | C/C++ | Java |
+Python | JS/TS | PHP | C/C++ | Java |
 --- | --- | --- | --- |--- |
 #### Frameworks / Libraries:
-Django REST | Flask | React/Next | Spring Boot | Flutter | Node |
---- | --- | --- | --- |--- |--- |
-#### Operations:
-Linux | Docker | AWS (EC2, Elastic Beanstalk, RDS, S3) | GCP (Firestore, APIs) | OCI |
+Django REST | Flask | React/Next | Spring Boot | Node |
 --- | --- | --- | --- |--- |
+#### Operations:
+Linux | Docker | AWS (EC2, Elastic Beanstalk, RDS, S3) | GCP | OCI |
+--- | --- | --- | --- |
 #### Storage:
 MariaDB/MySQL | SQLite | PostgreSQL | Python/JS ORMs | RDS | S3 | Firestore | MongoDB | Supabase |
 --- | --- | --- | --- | --- | --- | --- | --- | --- |
